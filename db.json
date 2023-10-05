@@ -1,0 +1,172 @@
+{
+  "expenses": [
+    {
+      "id": 1,
+      "month": "january",
+      "groceries": 2000,
+      "electricity": 1000,
+      "water": 3000,
+      "rent": 5000
+    },
+    {
+      "month": "feb",
+      "groceries": "2000",
+      "electricity": "3000",
+      "water": "4000",
+      "rent": "2000",
+      "id": 2
+    },
+    {
+      "month": "MARCH",
+      "groceries": "2000",
+      "electricity": "3000",
+      "water": "7000",
+      "rent": "12000",
+      "id": 3
+    },
+    {
+      "month": "MARCH",
+      "groceries": "2",
+      "electricity": "2",
+      "water": "2",
+      "rent": "2",
+      "id": 4
+    },
+    {
+      "month": "fb",
+      "groceries": "3000",
+      "electricity": "400",
+      "water": "20",
+      "rent": "10",
+      "id": 5
+    },
+    {
+      "month": "feb",
+      "groceries": "3000",
+      "electricity": "2000",
+      "water": "120",
+      "rent": "11",
+      "id": 6
+    },
+    {
+      "month": "march",
+      "groceries": "2004",
+      "electricity": "209",
+      "water": "345",
+      "rent": "145",
+      "id": 7
+    },
+    {
+      "month": "fev",
+      "groceries": "1000",
+      "electricity": "3000",
+      "water": "2",
+      "rent": "3",
+      "id": 8
+    },
+    {
+      "month": "fev",
+      "groceries": "1000",
+      "electricity": "1000",
+      "water": "2",
+      "rent": "3",
+      "id": 9
+    },
+    {
+      "month": "dec",
+      "groceries": "20",
+      "electricity": "2001",
+      "water": "1000",
+      "rent": "2",
+      "id": 10
+    },
+    {
+      "month": "dec",
+      "groceries": "20",
+      "electricity": "1001",
+      "water": "1000",
+      "rent": "2",
+      "id": 11
+    },
+    {
+      "month": "dec",
+      "groceries": "2000",
+      "electricity": "3000",
+      "water": "23",
+      "rent": "19",
+      "id": 12
+    },
+    {
+      "month": "dec",
+      "groceries": "2000",
+      "electricity": "3000",
+      "water": "23",
+      "rent": "19",
+      "id": 13
+    },
+    {
+      "month": "dec",
+      "groceries": "2000",
+      "electricity": "1000",
+      "water": "23",
+      "rent": "19",
+      "id": 14
+    },
+    {
+      "month": "dec",
+      "groceries": "100",
+      "electricity": "200",
+      "water": "300",
+      "rent": "400",
+      "id": 15
+    },
+    {
+      "month": "dec",
+      "groceries": "100",
+      "electricity": "200",
+      "water": "300",
+      "rent": "500",
+      "id": 16
+    },
+    {
+      "month": "feb",
+      "groceries": "100",
+      "electricity": "200",
+      "water": "500",
+      "rent": "400",
+      "id": 17
+    },
+    {
+      "month": "feb",
+      "groceries": "100",
+      "electricity": "200",
+      "water": "500",
+      "rent": "400",
+      "id": 18
+    },
+    {
+      "month": "fb",
+      "groceries": "1000",
+      "electricity": "200",
+      "water": "80",
+      "rent": "345",
+      "id": 19
+    },
+    {
+      "month": "MARCH",
+      "groceries": "1000",
+      "electricity": "300",
+      "water": "400",
+      "rent": "500",
+      "id": 20
+    },
+    {
+      "month": "MARCH",
+      "groceries": "1000",
+      "electricity": "300",
+      "water": "400",
+      "rent": "500",
+      "id": 21
+    }
+  ]
+}
