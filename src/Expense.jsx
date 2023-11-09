@@ -12,16 +12,15 @@ function Expense() {
   } = useForm();
   const onFormSubmit=(userObj)=>{
     // console.log(userObj)
-    const a=parseInt(userObj.electricity)+parseInt(userObj.water)+parseInt(userObj.groceries)+parseInt(userObj.rent);
-  (a<=1000)?(
-      console.log(a,'hello'),
-    setResponse(userObj))
-   :
-    (console.log("exceeded the daily limit"),
-    handleCreate(userObj))
+  //   const a=parseInt(userObj.electricity)+parseInt(userObj.water)+parseInt(userObj.groceries)+parseInt(userObj.rent);
+  // (a<=1000)?(
+  //     console.log(a,'hello'),
+    setResponse(userObj)
+  //   (console.log("exceeded the daily limit"),
+    handleCreate(userObj)
   };
   const handleCreate = (userObj) => {
-    fetch('http://localhost:3001/expenses', {
+    fetch('http://localhost:3000/expenses', {
       method: 'POST',
       headers: {
         'Content-Type': 'application/json',

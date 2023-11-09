@@ -11,7 +11,7 @@ function Visualise(props) {
     for (let i = 0; i < 4; i++) {
         arr[i] = parseInt(arr[i])
     }
-    console.log(arr)
+    // console.log(arr)
 
     const config = {
         labels: ["groceries","electricity_bills","water_bills","rent"],

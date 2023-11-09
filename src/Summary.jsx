@@ -8,12 +8,12 @@ function Summary(props) {
   const [posts, setPosts] = useState([]);
 
   useEffect(() => {
-    fetch('http://localhost:3001/expenses')
+    fetch('http://localhost:3000/expenses')
       .then((response) => response.json())
       .then((data) => setPosts(data));
   }, [props.response]);
 
-  const a=props.response
+  // const a=props.response
   return (
     <div className='container m-4'>
         {/* <h1>Hello</h1> */}
